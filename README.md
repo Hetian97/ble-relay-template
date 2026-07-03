@@ -52,9 +52,6 @@
 6. 点击「Add」保存
 7. 点击「Settings」→「Networking」，复制公网地址
 
-5. **获取公网地址**
-   - 点击「Settings」→「Networking」
-   - 复制公网地址，格式如：`https://xxx.up.railway.app`
 
 
 ## 第二步：生成中继页面
