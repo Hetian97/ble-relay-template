@@ -181,5 +181,5 @@ AI 生成代码后，复制保存为 `index.html`
 
 ## 致谢
 
-- 无声音频保活文件：discord 尾巴镇社区 @笨蛋酱 老师
+- 无声音频保活文件：discord @笨蛋酱 老师
 - 原仓库：vickyldr/svakom-ble-ai
